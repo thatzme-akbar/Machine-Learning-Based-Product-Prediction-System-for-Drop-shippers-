@@ -12,6 +12,14 @@ This project focuses on developing a Machine Learning-Based Product Recommendati
     + Use a Random Forest Classifier to predict product suitability with an accuracy of 92.47%.
     + Provide accurate recommendations to help dropshippers make informed decisions.
 
+**FILTERED Notebook**
+This file contains the filtering process according to the areas you need or acc the requirments
+
+**Preprocessing**
+This file contains all the preprocessing part 
+
+**KNN,SVM,Random Forest**
+This file includes the various algo used each file has its own gui too
 
 ### Here is a list of all the main libraries used in the project, including the GUI library:
 
