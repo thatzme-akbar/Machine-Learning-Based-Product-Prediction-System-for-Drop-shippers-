@@ -1,5 +1,5 @@
-# Machine-Learning-Based-Product-Prediction-System-for-Drop-shipping-
-This project focuses on developing a Machine Learning-Based Product Recommendation System for dropshipping platforms. The system uses a Random Forest Classifier to predict whether a product is suitable for dropshipping based on various parameters.
+# Machine-Learning-Based-Product-Prediction-System-for-Drop-shippers-
+This project focuses on developing a Machine Learning-Based Product Prediction System for dropshippers. The system uses a Random Forest Classifier to predict whether a product is suitable for dropshipping based on various parameters.
 
 ### **Overview**
 
